@@ -1,0 +1,10 @@
+// Any sass variables of individual V[Component] components - https://vuetifyjs.com/en/features/sass-variables/#variable-api
+
+@forward "vuetify/settings" with (
+  $button-height: 50px,
+  $messages-font-size: 0.85rem,
+  $input-details-font-size: 0.85rem,
+  $messages-min-height: 0.9rem,
+  $input-details-font-weight: 300,
+  $text-field-details-padding-inline: 0px
+);
