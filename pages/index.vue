@@ -19,5 +19,7 @@
     ></v-select>
 
     <v-textarea placeholder="Input your comment here"></v-textarea>
+
+    <v-btn color="primary"> Primary </v-btn>
   </div>
 </template>
